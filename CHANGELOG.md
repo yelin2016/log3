@@ -1,3 +1,8 @@
+## [0.1.7](https://github.com/yelin2016/log3/compare/v0.1.6...v0.1.7) (2018-07-31)
+
+
+
+
 ## [0.1.6](https://github.com/yelin2016/log3/compare/v0.1.5...v0.1.6) (2018-07-31)
 
 
