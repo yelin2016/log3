@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "angular-log": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
+    "eslint-log": "conventional-changelog -p eslint -i CHANGELOG.md -s -r 0"  
   },
   "repository": {
     "type": "git",
