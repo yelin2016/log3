@@ -1,3 +1,12 @@
+## [0.1.4](https://github.com/yelin2016/log3/compare/v0.1.3...v0.1.4) (2018-07-31)
+
+
+### feat
+
+* 更新文档 ([0db438c9754f8219a38a87ebeb1785277502a7f6](https://github.com/yelin2016/log3/commit/0db438c9754f8219a38a87ebeb1785277502a7f6))
+
+
+
 ## [0.1.3](https://github.com/yelin2016/log3/compare/59eb2873468efb0ed99f896d709a73d4b341a244...v0.1.3) (2018-07-31)
 
 
