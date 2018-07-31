@@ -1,3 +1,20 @@
+## [0.1.6](https://github.com/yelin2016/log3/compare/v0.1.5...v0.1.6) (2018-07-31)
+
+
+### buid
+
+* build test ([ff822ed6586e38570a263cb4adfd52dbc7863f2b](https://github.com/yelin2016/log3/commit/ff822ed6586e38570a263cb4adfd52dbc7863f2b))
+
+### ci
+
+* add a type ci ([674aae2a29638b97a31de5aa89c42f5cf70b9c09](https://github.com/yelin2016/log3/commit/674aae2a29638b97a31de5aa89c42f5cf70b9c09))
+
+### test
+
+* add type test ([68073c2321d64096574d983186bffb8b827a5400](https://github.com/yelin2016/log3/commit/68073c2321d64096574d983186bffb8b827a5400))
+
+
+
 ## [0.1.5](https://github.com/yelin2016/log3/compare/v0.1.4...v0.1.5) (2018-07-31)
 
 
