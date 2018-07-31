@@ -1,3 +1,13 @@
+## [0.1.5](https://github.com/yelin2016/log3/compare/v0.1.4...v0.1.5) (2018-07-31)
+
+
+### feat
+
+* 再次更新index.html ([cbffcd39f6389019df39695369a4ced1b7707edd](https://github.com/yelin2016/log3/commit/cbffcd39f6389019df39695369a4ced1b7707edd))
+* 更新了index.html文档 ([ee872e336769e2c282f6fc84d717d221ee86001f](https://github.com/yelin2016/log3/commit/ee872e336769e2c282f6fc84d717d221ee86001f))
+
+
+
 ## [0.1.4](https://github.com/yelin2016/log3/compare/v0.1.3...v0.1.4) (2018-07-31)
 
 
